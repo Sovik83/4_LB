@@ -1,0 +1,17 @@
+C:\Users\sovik\source\repos\4LB\4LB\bin\Debug\net6.0-windows\4LB.exe
+C:\Users\sovik\source\repos\4LB\4LB\bin\Debug\net6.0-windows\4LB.deps.json
+C:\Users\sovik\source\repos\4LB\4LB\bin\Debug\net6.0-windows\4LB.runtimeconfig.json
+C:\Users\sovik\source\repos\4LB\4LB\bin\Debug\net6.0-windows\4LB.dll
+C:\Users\sovik\source\repos\4LB\4LB\bin\Debug\net6.0-windows\4LB.pdb
+C:\Users\sovik\source\repos\4LB\4LB\obj\Debug\net6.0-windows\4LB.csproj.AssemblyReference.cache
+C:\Users\sovik\source\repos\4LB\4LB\obj\Debug\net6.0-windows\_4LB.Form1.resources
+C:\Users\sovik\source\repos\4LB\4LB\obj\Debug\net6.0-windows\4LB.csproj.GenerateResource.cache
+C:\Users\sovik\source\repos\4LB\4LB\obj\Debug\net6.0-windows\4LB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sovik\source\repos\4LB\4LB\obj\Debug\net6.0-windows\4LB.AssemblyInfoInputs.cache
+C:\Users\sovik\source\repos\4LB\4LB\obj\Debug\net6.0-windows\4LB.AssemblyInfo.cs
+C:\Users\sovik\source\repos\4LB\4LB\obj\Debug\net6.0-windows\4LB.csproj.CoreCompileInputs.cache
+C:\Users\sovik\source\repos\4LB\4LB\obj\Debug\net6.0-windows\4LB.dll
+C:\Users\sovik\source\repos\4LB\4LB\obj\Debug\net6.0-windows\refint\4LB.dll
+C:\Users\sovik\source\repos\4LB\4LB\obj\Debug\net6.0-windows\4LB.pdb
+C:\Users\sovik\source\repos\4LB\4LB\obj\Debug\net6.0-windows\4LB.genruntimeconfig.cache
+C:\Users\sovik\source\repos\4LB\4LB\obj\Debug\net6.0-windows\ref\4LB.dll
